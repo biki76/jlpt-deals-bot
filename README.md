@@ -1,0 +1,1 @@
+# jlpt-deals-bot
